@@ -22,6 +22,7 @@ h1{
 input{
   border: 3px solid red;
   border-radius: 5px;
+  width:400px;
   font-size: 30px;
   padding: 10px;
   box-shadow: 5px 5px 10px rgb(216, 113, 113);
@@ -78,4 +79,14 @@ input{
       width:100%;
   }
   
+}
+@media screen and (max-width:500px) {
+  input{
+    width:300px;
+  
+  }
+  .continer{
+    margin-left:5px;
+    margin-right: 5px;
+  }
 }
