@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/clone-unspl-api/static/css/main.66facf52.css",
+    "main.js": "/clone-unspl-api/static/js/main.93a29a9f.js",
+    "static/js/787.ac807ddc.chunk.js": "/clone-unspl-api/static/js/787.ac807ddc.chunk.js",
+    "index.html": "/clone-unspl-api/index.html",
+    "main.66facf52.css.map": "/clone-unspl-api/static/css/main.66facf52.css.map",
+    "main.93a29a9f.js.map": "/clone-unspl-api/static/js/main.93a29a9f.js.map",
+    "787.ac807ddc.chunk.js.map": "/clone-unspl-api/static/js/787.ac807ddc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66facf52.css",
+    "static/js/main.93a29a9f.js"
+  ]
+}
