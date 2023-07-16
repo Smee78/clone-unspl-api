@@ -85,4 +85,8 @@ input{
     width:300px;
   
   }
+  .continer{
+    margin-left: 5px;
+    margin-right: 5px;
+  }
 }
