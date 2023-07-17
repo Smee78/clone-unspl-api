@@ -82,12 +82,12 @@ input{
 }
 @media screen and (max-width:500px) {
   input{
-    width:320px;
+    width:300px;
   
   }
   .continer{
     margin-left: 5px;
     margin-right: 5px;
-    background-color:rgb(104, 204, 154);
+    background-color:rgb(94, 209, 150);
   }
 }
